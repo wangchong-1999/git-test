@@ -10,10 +10,12 @@ public class FirstClass {
         System.out.println("hello,pro");
         System.out.println("hello,pro");
         System.out.println("hello,pro");
+        //xiuga
     }
 
     public void tets(){
         System.out.println("sssssssssss");
+        System.out.println("dddddd");
     }
 
 }
